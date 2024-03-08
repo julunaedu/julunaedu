@@ -4,7 +4,7 @@
 Meu nome é Julia Luna, sou estudante de Tecnologia em Sistemas para Internet e estou sempre buscando aprender mais sobre a área de TI.
 
 ### Detalhes
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julunaedu&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julunaedu&show_icons=true&theme=transparent&hide=stars,issues&rank_icon=github&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julunaedu&repo=JornadaIA-EBAC&theme=transparent)](https://github.com/julunaedu/JornadaIA-EBAC)  
@@ -21,8 +21,7 @@ Esse projeto TikTok-EBAC foi privatizado, então quando criar um novo projeto, �
 
 ### Contato
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:julunaedu@gmail.com)
-
-julunaedu@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/julunaedu)
 
 <!--
 # julunaedu
