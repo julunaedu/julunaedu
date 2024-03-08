@@ -7,8 +7,10 @@ Meu nome é Julia Luna, sou estudante de Tecnologia em Sistemas para Internet e 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julunaedu&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julunaedu&repo=JornadaIA-EBAC&theme=transparent)](https://github.com/julunaedu/JornadaIA-EBAC.git)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julunaedu&repo=dio-desafio-classDeHeroi&theme=transparent)](https://github.com/julunaedu/dio-desafio-classDeHeroi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julunaedu&repo=JornadaIA-EBAC&theme=transparent)](https://github.com/julunaedu/JornadaIA-EBAC)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julunaedu&repo=dio-desafio-classDeHeroi&theme=transparent)](https://github.com/julunaedu/dio-desafio-classDeHeroi)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julunaedu&repo=dio-desafio-calcPartRank&theme=transparent)](https://github.com/julunaedu/dio-desafio-calcPartRank)  
+
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julunaedu&repo=TikTok-EBAC&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 Esse projeto TikTok-EBAC foi privatizado, então quando criar um novo projeto, é necessário alterar essa seção para torná-la visível e conter o nome do novo projeto.
