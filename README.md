@@ -8,8 +8,7 @@ Meu nome é Julia Luna, sou estudante de Tecnologia em Sistemas para Internet e 
 
 ### Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julunaedu&repo=JornadaIA-EBAC&theme=transparent)](https://github.com/julunaedu/JornadaIA-EBAC)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julunaedu&repo=dio-desafio-classDeHeroi&theme=transparent)](https://github.com/julunaedu/dio-desafio-classDeHeroi)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julunaedu&repo=dio-desafio-calcPartRank&theme=transparent)](https://github.com/julunaedu/dio-desafio-calcPartRank)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julunaedu&repo=dio-PTech-ProgZero-desafios&theme=transparent)](https://github.com/julunaedu/dio-PTech-ProgZero-desafios)  
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julunaedu&repo=TikTok-EBAC&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
